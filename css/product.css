@@ -1,0 +1,31 @@
+.product-item-container{
+    width: 300px;
+    border: 0.5px solid rgb(185, 185, 185);
+    background-color: white;
+}
+
+.product-image{
+    width: 298px;
+    height: 200px;
+}
+
+.image-div{
+    height: 200px;
+
+}
+
+.product-info{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.product-item-contains{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 1260px;
+}
